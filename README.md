@@ -1,9 +1,5 @@
 # rock-paper-scissors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
-
-https://youtu.be/0uSA3xyXlwM 
-
 An AI to play the Rock Paper Scissors game
 
 ## Requirements
@@ -44,3 +40,15 @@ $ python3 test.py <path_to_test_image>
 ```sh
 $ python3 play.py
 ```
+7.## Dataset and Trained Model
+
+Due to GitHub file size limitations, the dataset and trained model are hosted on Google Drive.
+
+📁 Google Drive Folder (Dataset + Model):  
+https://drive.google.com/drive/folders/1CS_2a2eQadQrxzJR2KJcL3_OXyTbWK2e?usp=drive_link
+
+### How to use the dataset
+1. Download the dataset ZIP file from the Drive link
+2. Extract it inside the project root
+3. Ensure folder structure:
+
